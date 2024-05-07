@@ -15,7 +15,6 @@ Cross-Platform Compatibility: Works smoothly on Windows, macOS, and Linux enviro
 ## Dataset
 
 Dataset : https://www.kaggle.com/datasets/vaibhao/handwritten-characters
-The Data set contains all the English alphabets (small and caps), digits (0-9) and some special characters( @, #, $, & )
-The images are 32 by 32 pixel black and white images
+
 There are total 39 categories 26 for Alphabets (small and caps letters are combined to create a single class of each character), 9 for Digits (i.e. 1 to 9 ). to avoid mis-classification digit 0 is combined in character O category. and some special characters ( @, #, $, &).
  
